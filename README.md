@@ -27,7 +27,7 @@ Follow these steps to convert an Excel file to a PHP serialized array:
 
 1. **File selection:**
     Select the exsel file format.
-   - ![Step 1](images/step 1.png)
+   - ![Step 1](images/step1.png)
   *File selection*
     The file must contain "Key", "Language", "Value" columns.
    
