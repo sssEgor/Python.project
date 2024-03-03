@@ -26,22 +26,26 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 Follow these steps to convert an Excel file to a PHP serialized array:
 
 1. **File selection:**
-    Select the exsel file format. The file must contain "Key", "Language", "Value" columns.
+    Select the exsel file format.
+   - ![Step 1](images/step 1.png)
+  *File selection*
+    The file must contain "Key", "Language", "Value" columns.
+   
 
-2. **Run the Script:**
+3. **Run the Script:**
     ```bash
     python excel_to_php_array.py
     ```
     The script will prompt you to enter the path to your Excel file.
 
-3. **View the Output:**
+4. **View the Output:**
     The serialized PHP array will be printed to the console.
 
 ## Screenshots
 
 Include screenshots or images that demonstrate the usage of your script.
 
-- ![Step 1](screenshots/step1.png)
+- ![Step 1.2](images/step 1.png)
   *Caption for Step 1 screenshot.*
 
 - ![Step 2](screenshots/step2.png)
