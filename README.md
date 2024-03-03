@@ -32,23 +32,10 @@ Follow these steps to convert an Excel file to a PHP serialized array:
     The file must contain "Key", "Language", "Value" columns.
    - ![Step 1.2](images/step12.png)
 
-3. **Run the Script:**
-    ```bash
-    python excel_to_php_array.py
-    ```
-    The script will prompt you to enter the path to your Excel file.
+2. **Conversion:**
+    Click "Upload" to convert the file.
+   - ![Step 2](images/step2.png)
 
-4. **View the Output:**
-    The serialized PHP array will be printed to the console.
-
-## Screenshots
-
-Include screenshots or images that demonstrate the usage of your script.
-
-- ![Step 1.2](images/step 1.png)
-  *Caption for Step 1 screenshot.*
-
-- ![Step 2](screenshots/step2.png)
-  *Caption for Step 2 screenshot.*
-
-
+    Receive transfers in the format we need
+   - ![Step 2.2](images/step22.png)
+    
