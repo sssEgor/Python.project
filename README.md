@@ -9,3 +9,10 @@ This script converts Excel files containing translation data into a PHP serializ
    ```bash
    pip install -r requirements.txt
 
+1. Run the script:
+
+   ```bashbash
+   python excel_to_php_array.py
+2. The script will prompt you to enter the path to your Excel file.
+   The serialized PHP array will be printed to the console.
+
